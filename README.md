@@ -3,7 +3,7 @@
 
 ## 脚本
 
-学习网站：xxx.zjwater.com/zsxx/#/consumer/studyCenter
+学习网站：https://xxx.zjwater.com/zsxx/#/consumer/studyCenter
 脚本地址：
 [浙江省水利人员在线学习系统-刷课脚本](https://greasyfork.org/zh-CN/scripts/403642-%E6%B5%99%E6%B1%9F%E7%9C%81%E6%B0%B4%E5%88%A9%E4%BA%BA%E5%91%98%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0%E7%B3%BB%E7%BB%9F-%E5%88%B7%E8%AF%BE%E8%84%9A%E6%9C%AC)
 
